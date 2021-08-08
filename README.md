@@ -1,1 +1,1 @@
-[Github Pages] (https://tointech.github.io/my-site/)
+[Github Pages](https://tointech.github.io/my-site/)
